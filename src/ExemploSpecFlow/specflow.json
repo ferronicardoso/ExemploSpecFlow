@@ -1,0 +1,12 @@
+﻿{
+  "bindingCulture": {
+    "language": "pt-br"
+  },
+  "language": {
+    "feature": "pt-br"
+  },
+  "plugins": [],
+  "generator": {
+    "allowDebugGeneratedFiles": true
+  }
+}
